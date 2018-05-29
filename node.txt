@@ -1,0 +1,13 @@
+项目中功能
+1：easyui动态tree的第二种方式
+2：poi导入导出
+3：发送短信验证
+4：登录页面验证码
+5：发送邮件
+6：redis结合项目的使用
+7：spring容器
+8：@Value("${xxx}")--查询properties文件中的值。
+9：jackson的使用，jsonUtils
+10：jsonp
+11：集合的测试，和底层的查看
+12：maven的tomcat插件
