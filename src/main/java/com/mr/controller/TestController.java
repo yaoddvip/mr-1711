@@ -11,7 +11,7 @@ import org.springframework.web.bind.annotation.ResponseBody;
 public class TestController {
 
     private String a = "abc";
-
+    private Integer b = 1;
 
     @ResponseBody
     @RequestMapping("/test/test")
